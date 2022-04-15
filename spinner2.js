@@ -15,3 +15,4 @@ let fullSpin = () => {
 fullSpin();
 
 //Hayyyyy, Jules be da beez neeeezzzzz
+//sorry was teaching my fiance how to push to git lol. shes cool.
